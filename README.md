@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Jayaditya Malviya</h1>
+<h1 align="center">🚀 Jayaditya Malviya 🚀</h1>
 <h3 align="center">Salesforce Developer | Full Stack Engineer | NASA Security Researcher</h3>
 
 <p align="center">
