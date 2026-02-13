@@ -133,7 +133,7 @@ Improved data accuracy and automation efficiency.
 ## 🐍 Contribution Activity
 
 <p align="center">
-<img src="https://github.com/sunnyjhl/sunnyjhl/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/sunnyjhl/sunnyjhl/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
