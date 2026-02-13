@@ -11,15 +11,24 @@
 
 ---
 
+## 🎯 Career Focus
+
+- 💼 Software Engineering Roles (Backend / Full Stack)
+- ☁ Cloud & CRM Engineering
+- 🛡 Security Research & Secure System Design
+- 🚀 Space-Tech & Mission-Critical Software
+
+---
+
 ## 👨‍💻 Professional Overview
 
-🎓 B.Tech in Computer Science Engineering (2022–2026) — LNCTS, Bhopal  
-🚀 Recognized by NASA Kennedy Space Center  
-🛡 NASA Vulnerability Disclosure Program (VDP) Awardee — 2024  
+🎓 B.Tech CSE (2022–2026) — LNCTS, Bhopal  
+🚀 NASA Kennedy Space Center Recognized  
+🛡 NASA Vulnerability Disclosure Program Awardee — 2024  
 ☁ AWS & Microsoft Azure Certified  
-💼 Experience in Salesforce Development & Full Stack Engineering  
+💼 Salesforce Developer Intern | MERN Stack Engineer  
 
-Focused on building scalable CRM systems, secure cloud solutions, and mission-critical software architectures.
+Focused on building scalable CRM systems, secure cloud applications, and aerospace-grade software solutions.
 
 ---
 
@@ -28,7 +37,7 @@ Focused on building scalable CRM systems, secure cloud solutions, and mission-cr
 ### 🔹 Salesforce Developer Intern — SmartBridge | AICTE
 - Developed reusable Lightning Web Components (LWC) & Apex classes  
 - Improved UI performance by **30%**  
-- Automated CRM workflows using Flows, Triggers & Process Builder  
+- Automated CRM workflows using Flows & Triggers  
 - Earned **19+ Salesforce Superbadges**
 
 ### 🔹 Web Development Intern — Naxatra Labs
@@ -42,14 +51,34 @@ Focused on building scalable CRM systems, secure cloud solutions, and mission-cr
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔸 ISA-India Platform
+Full-stack space community platform with authentication & role-based access.  
+Tech: React, Node.js, Express, MongoDB, JWT, Redis
+
+### 🔸 Salesforce CRM Automation System
+Designed scalable CRM workflows using Apex & LWC.  
+Improved data accuracy and automation efficiency.
+
+---
+
 ## 🛠 Technical Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,mongodb,aws,azure,git,github,mysql,vscode" />
 </p>
 
-**Salesforce:** Apex, LWC, Aura, Triggers, Flows, Reports, Dashboards  
-**Core CS:** OOP, Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks  
+**Salesforce:** Apex, LWC, Aura, Flows, Triggers  
+**Core CS:** OOP, DSA, DBMS, OS, Computer Networks  
+
+---
+
+## 🧠 Currently Learning
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Advanced+Data+Structures;System+Design+Fundamentals;Backend+Optimization;Cloud+Architecture&center=true&width=600&height=40">
+</p>
 
 ---
 
@@ -57,8 +86,7 @@ Focused on building scalable CRM systems, secure cloud solutions, and mission-cr
 
 - 🏅 NASA Kennedy Space Center Recognition  
 - 🛡 NASA VDP Security Award (Oct 2024)  
-- 📑 IEEE-format Research Paper:  
-  *Implementation of AI in Integration of Small Satellites with Autonomous Vehicles*  
+- 📑 IEEE Research Paper — AI + Small Satellites  
 - ☁ AWS Academy Graduate — Cloud Foundations  
 - 🤖 Microsoft Certified — Azure AI Fundamentals  
 - ⚡ Salesforce Agentblazer Champion  
@@ -111,5 +139,5 @@ Focused on building scalable CRM systems, secure cloud solutions, and mission-cr
 ---
 
 <p align="center">
-⚡ Building Scalable Systems • Securing Platforms • Exploring Space-Tech
+⚡ Engineering Scalable Systems • Securing Platforms • Innovating Beyond Earth
 </p>
