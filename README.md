@@ -23,8 +23,8 @@
 ## 👨‍💻 Professional Overview
 
 🎓 B.Tech CSE (2022–2026) — LNCTS, Bhopal  
-🚀 NASA Kennedy Space Center Recognized  
-🛡 NASA Vulnerability Disclosure Program Awardee — 2024  
+🚀 NASA Kennedy Space Center (KSC) Achievement Award - 2025
+🛡 NASA Vulnerability Disclosure Program (VDP) Awardee — 2024  
 ☁ AWS & Microsoft Azure Certified  
 💼 Salesforce Developer Intern | MERN Stack Engineer  
 
@@ -84,7 +84,7 @@ Improved data accuracy and automation efficiency.
 
 ## 📄 Research & Achievements
 
-- 🏅 NASA Kennedy Space Center Recognition  
+- 🏅 NASA Kennedy Space Center (KSC) Achievement Award - 2025  
 - 🛡 NASA VDP Security Award (Oct 2024)  
 - 📑 IEEE Research Paper — AI + Small Satellites  
 - ☁ AWS Academy Graduate — Cloud Foundations  
