@@ -1,4 +1,5 @@
 <h1 align="center">🚀 Jayaditya Malviya 🚀</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 <h3 align="center">Salesforce Developer | Full Stack Engineer | NASA Security Researcher</h3>
 
 <p align="center">
