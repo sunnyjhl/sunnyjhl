@@ -103,6 +103,16 @@ Improved data accuracy and automation efficiency.
 
 ---
 
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/sunnyjhl5?theme=dark&font=Karma">
+
+</p>
+
+---
+
 ## 📈 Most Used Languages
 
 <p align="center">
@@ -128,6 +138,15 @@ Improved data accuracy and automation efficiency.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jayadityamalviya)
 
 </p>
+---
+
+# 📈 Coding Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnyjhl&theme=tokyo-night">
+
+</p>
 
 ---
 
@@ -136,6 +155,33 @@ Improved data accuracy and automation efficiency.
 <p align="center">
 <img src="https://raw.githubusercontent.com/sunnyjhl/sunnyjhl/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+# 📰 Media Coverage
+
+My work related to **NASA programs and satellite research** has been featured in newspapers.
+
+* 🛰 Satellite Communication Research
+* 🏅 NASA Achievement Award Coverage
+* 🚀 NASA Satellite Programming Training
+
+---
+
+# 🧠 Currently Learning
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Advanced+Data+Structures;System+Design;Backend+Optimization;Cloud+Architecture&center=true&width=600&height=40">
+
+</p>
+
+---
+
+# 🌌 Personal Philosophy
+
+> "Technology should not only scale systems on Earth
+> but also help humanity explore beyond it."
 
 ---
 
