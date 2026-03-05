@@ -1,5 +1,5 @@
 <p align="center">
-<img src="main.yml" width="100%">
+<img src="Mypic3.jpeg" width="100%">
 </p>
 
 <h1 align="center">🚀 Jayaditya Malviya 🚀</h1>
