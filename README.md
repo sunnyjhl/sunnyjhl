@@ -168,15 +168,6 @@ My work related to **NASA programs and satellite research** has been featured in
 
 ---
 
-# 🧠 Currently Learning
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Advanced+Data+Structures;System+Design;Backend+Optimization;Cloud+Architecture&center=true&width=600&height=40">
-
-</p>
-
----
 
 # 🌌 Personal Philosophy
 
