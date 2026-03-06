@@ -117,22 +117,6 @@ Improved data accuracy and automation efficiency.
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyjhl&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sunnyjhl&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
