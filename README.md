@@ -161,6 +161,9 @@ Improved data accuracy and automation efficiency.
 </p>
 
 ---
+<p align="center">
+<img src=".github/workflows/Jayaditya Malviya (1).png" width="100%">
+</p>
 
 # 📰 Media Coverage
 
