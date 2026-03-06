@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Jayaditya Malviya.png" width="100%">
+<img src=".github/workflows/Jayaditya Malviya.png" width="100%">
 </p>
 
 <h1 align="center">🚀 Jayaditya Malviya 🚀</h1>
